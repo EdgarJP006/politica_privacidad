@@ -1,7 +1,7 @@
 Política de privacidad - Reavivados pos Su palabra (A)
 
 
-Esta política de privacidad rige su uso de la aplicación SIBIUP, para dispositivos móviles Android que fue creada por el Sistema de Bibliotecas de la Universidad de Panamá.
+Esta política de privacidad rige su uso de la aplicación  Reavivados pos Su palabra (A), para dispositivos móviles Android que fue creada por el Ing. Edgar Pérez.
 Este SERVICIO es provisto por el Sistema de Bibliotecas de la Universidad de Panamá sin costo y está destinado a ser utilizado tal cual.
 Esta página se utiliza para informar a los visitantes sobre nuestras políticas con la recopilación, el uso y la divulgación de Información personal si alguien decide utilizar nuestro Servicio.
 Si elige usar nuestro Servicio, acepta la recopilación y el uso de la información en relación con esta política. No recopilamos información personal como nombre, apellido, edad, fecha de nacimiento, etc.

@@ -3,8 +3,8 @@
   <br>
   <br>
   
-    <p align="left">
-        Esta política de privacidad rige su uso de la aplicación SIBIUP,    para dispositivos móviles Android que fue creada por el Sistema de Bibliotecas de la Universidad de Panamá. <br>
+   
+  Esta política de privacidad rige su uso de la aplicación SIBIUP,    para dispositivos móviles Android que fue creada por el Sistema de Bibliotecas de la Universidad de Panamá.
 
  Este SERVICIO es provisto por el Sistema de Bibliotecas de la Universidad de Panamá sin costo y está destinado a ser utilizado tal cual. <br>
 
@@ -18,7 +18,7 @@ Si elige usar nuestro Servicio, acepta la recopilación y el uso de la informaci
 
  
 
-    </p><p align="left">
+   
 <br>
  Play Services 
 <br>

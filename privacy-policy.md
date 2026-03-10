@@ -1,39 +1,122 @@
-Política de privacidad - Reavivados pos Su palabra (A)
+Reavivados por Su Palabra (A)
+Última actualización: [coloca la fecha]
 
+Esta Política de Privacidad describe cómo se recopilan, usan, almacenan y comparten los datos de los usuarios de la aplicación Reavivados por Su Palabra (A) para dispositivos móviles Android, desarrollada por Ing. Edgar Pérez.
 
-Esta política de privacidad rige su uso de la aplicación  Reavivados pos Su palabra (A), para dispositivos móviles Android que fue creada por el Ing. Edgar Pérez.
-Este SERVICIO es provisto sin costo y está destinado a ser utilizado tal cual.
-Esta página se utiliza para informar a los visitantes sobre nuestras políticas con la recopilación, el uso y la divulgación de Información personal si alguien decide utilizar nuestro Servicio.
-Si elige usar nuestro Servicio, acepta la recopilación y el uso de la información en relación con esta política. No recopilamos información personal como nombre, apellido, edad, fecha de nacimiento, etc.
+Al usar la aplicación, el usuario acepta las prácticas descritas en esta Política de Privacidad. Si no está de acuerdo con ella, debe abstenerse de usar la aplicación.
 
-Play Services
-Datos de registro
-Queremos informarle que cada vez que utiliza nuestro Servicio, en caso de error en la aplicación, recopilamos datos e información (a través de productos de terceros) en su teléfono, llamados Datos de registro. Este registro de datos puede incluir información como la dirección del protocolo de Internet ("IP"), el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al utilizar nuestro servicio, la hora y la fecha de uso del servicio y otras estadísticas.
+1. Quiénes somos
+Responsable de la aplicación: Ing. Edgar Pérez
+Correo de contacto: edgar.perezr@up.ac.pa
 
+2. Qué datos podemos recopilar
+Dependiendo de las funciones que utilice dentro de la aplicación, podemos recopilar las siguientes categorías de datos:
+a) Datos de cuenta e identificación
+Si el usuario inicia sesión o crea una cuenta, la aplicación puede recopilar:
+nombre
+correo electrónico
+foto de perfil
+identificador único de usuario
+Estos datos se utilizan para autenticar al usuario, mantener su sesión, sincronizar su información entre dispositivos y personalizar su experiencia.
+b) Datos de uso dentro de la aplicación
+La aplicación puede recopilar información relacionada con el uso del servicio, por ejemplo:
+progreso de lectura bíblica
+devocionales completados
+historial de uso de funciones
+rachas o hábitos de lectura
+preferencias dentro de la aplicación
+Estos datos se usan para ofrecer funciones personalizadas, guardar el avance del usuario y mejorar la experiencia general.
+c) Contenido generado por el usuario
 
-Cookies
-Las cookies son archivos con una pequeña cantidad de datos que se utilizan comúnmente como identificadores únicos anónimos. Estos se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo.
-Este Servicio no usa estas "cookies" explícitamente. Sin embargo, la aplicación puede usar código de terceros y bibliotecas que usan "cookies" para recopilar información y mejorar sus servicios. Usted tiene la opción de aceptar o rechazar estas cookies y saber cuándo se está enviando una cookie a su dispositivo. Si elige rechazar nuestras cookies, es posible que no pueda usar algunas partes de este Servicio.
+Si la aplicación permite escribir mensajes, reflexiones, notas, comentarios o usar funciones de chat, podremos recopilar el contenido que el usuario ingrese voluntariamente.
+Este contenido se usa únicamente para prestar la función correspondiente dentro de la aplicación.
 
-Proveedores de servicio
-Podemos emplear compañías e individuos de terceros debido a las siguientes razones:
+d) Datos técnicos y de diagnóstico
+Cuando el usuario utiliza la aplicación, especialmente en caso de error, podemos recopilar automáticamente ciertos datos técnicos, como:
+dirección IP
+modelo del dispositivo
+sistema operativo y versión
+idioma del dispositivo
+identificadores de la app o del dispositivo
+fecha y hora de uso
+registros de fallos, rendimiento y diagnóstico
+Estos datos pueden ser recopilados mediante servicios de terceros usados para análisis, estabilidad y seguridad de la aplicación.
+e) Datos publicitarios
 
-Para facilitar nuestro servicio;
-Para proporcionar el Servicio en nuestro nombre;
-Para realizar servicios relacionados con el servicio; o
-Para ayudarnos a analizar cómo se utiliza nuestro Servicio.
-Queremos informar a los usuarios de este Servicio que estos terceros tienen acceso a su Información personal. El motivo es realizar las tareas que se les asignaron en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro fin.
+Si la aplicación muestra anuncios, pueden recopilarse identificadores publicitarios y datos relacionados con la interacción con los anuncios, de acuerdo con el proveedor de publicidad utilizado.
+Estos datos pueden usarse para mostrar anuncios, limitar repeticiones, medir rendimiento publicitario y prevenir fraude.
 
-Seguridad
-Valoramos su confianza al proporcionarnos su Información personal, por lo tanto, nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerde que ningún método de transmisión a través de Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.
+3. Cómo usamos la información
+Usamos la información recopilada para:
+permitir el acceso y autenticación del usuario
+guardar y sincronizar el progreso espiritual o de lectura
+mostrar contenido personalizado
+mantener, proteger y mejorar la aplicación
+diagnosticar errores y problemas técnicos
+responder consultas o solicitudes de soporte
+mostrar anuncios, cuando corresponda
+cumplir obligaciones legales o regulatorias
 
-Enlaces a otros sitios
-Este Servicio puede contener enlaces a otros sitios. Si hace clic en un enlace de un tercero, se lo dirigirá a ese sitio. Tenga en cuenta que estos sitios externos no son operados por nosotros. Por lo tanto, le recomendamos encarecidamente que revise la Política de privacidad de estos sitios web. No tenemos control ni asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de sitios o servicios de terceros.
+4. Base de la recopilación
+Recopilamos datos:
+cuando el usuario los proporciona directamente
+cuando son necesarios para el funcionamiento de la app
+cuando son generados automáticamente por el uso del servicio
+cuando son tratados por servicios tecnológicos que utilizamos para autenticación, análisis, diagnóstico o publicidad
 
-Cambios a esta política de privacidad
-Es posible que actualicemos nuestra Política de privacidad de vez en cuando. Por lo tanto, se recomienda revisar esta página periódicamente para cualquier cambio. Le notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página. Estos cambios entran en vigor inmediatamente después de que se publiquen en esta página.
+5. Servicios de terceros
+La aplicación puede usar servicios de terceros que procesan datos en nuestro nombre o para sus propios fines conforme a sus políticas, tales como:
+Firebase Authentication, para inicio de sesión y gestión de cuentas
+Firebase Analytics, para analítica de uso
+Firebase Crashlytics, para reportes de fallos y diagnóstico
+Google AdMob, para mostrar anuncios, si aplica
+otros servicios de infraestructura en la nube, almacenamiento, autenticación o análisis, cuando sean necesarios
 
-Contáctenos
-Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad.
+Estos terceros pueden acceder a ciertos datos en la medida necesaria para prestar sus servicios.
 
-No dude en contactarnos a edgar.perezr@up.ac.pa. Ing. Edgar Perez
+6. Compartición de datos
+No vendemos los datos personales de los usuarios.
+Sin embargo, sí podemos compartir datos con terceros en estas circunstancias:
+con proveedores tecnológicos que prestan servicios para operar la aplicación
+cuando sea necesario para análisis, diagnóstico, autenticación o publicida
+cuando una autoridad competente lo requiera conforme a la ley
+para proteger derechos, seguridad, integridad del servicio o prevenir fraude
+
+7. Conservación de datos
+Conservamos los datos personales solo durante el tiempo necesario para:
+prestar el servicio
+cumplir los fines descritos en esta política
+resolver disputas
+cumplir obligaciones legales
+mantener seguridad y continuidad del servicio
+Cuando los datos ya no sean necesarios, se eliminarán o anonimizarán de forma razonable, salvo que la ley exija su conservación.
+
+8. Eliminación de cuenta y datos
+Si la aplicación permite crear una cuenta, el usuario puede solicitar la eliminación de su cuenta y de los datos asociados escribiendo a:
+edgar.perezr@up.ac.pa
+En la solicitud debe indicar el correo o identificador asociado a su cuenta.
+
+Atenderemos la solicitud dentro de un plazo razonable, salvo que exista una obligación legal o técnica legítima para conservar ciertos datos por más tiempo, por ejemplo registros de seguridad, prevención de fraude o cumplimiento normativo.
+
+9. Seguridad
+Adoptamos medidas razonables de carácter técnico, administrativo y organizativo para proteger la información de los usuarios contra acceso no autorizado, pérdida, alteración o divulgación indebida.
+No obstante, ningún sistema de transmisión o almacenamiento electrónico puede garantizar seguridad absoluta.
+
+10. Privacidad de menores
+La aplicación no está dirigida intencionalmente a menores de edad sin autorización de sus padres o responsables, cuando dicha autorización sea requerida por la legislación aplicable.
+Si una persona responsable considera que un menor nos ha proporcionado datos personales sin autorización, puede escribirnos para solicitar su revisión o eliminación.
+
+11. Enlaces a sitios o servicios externos
+La aplicación puede contener enlaces a sitios o servicios de terceros. No somos responsables por sus prácticas de privacidad, contenidos o términos. Recomendamos revisar sus políticas antes de proporcionar información personal.
+
+12. Cookies y tecnologías similares
+La aplicación móvil no utiliza cookies del navegador en el sentido tradicional de un sitio web. Sin embargo, algunos servicios de terceros integrados en la app pueden utilizar tecnologías similares, identificadores únicos o almacenamiento local para autenticación, analítica, diagnóstico o publicidad.
+
+13. Cambios a esta política
+Podemos actualizar esta Política de Privacidad en cualquier momento. Publicaremos la nueva versión dentro de la aplicación o en la página oficial correspondiente. La fecha de última actualización indicará cuándo entró en vigor la versión vigente.
+
+14. Contacto
+Si tiene preguntas, comentarios o solicitudes relacionadas con esta Política de Privacidad o con el tratamiento de sus datos, puede escribir a:
+
+Ing. Edgar Pérez
+Correo: edgar.perezr@up.ac.pa

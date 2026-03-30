@@ -1,7 +1,7 @@
 Reavivados por Su Palabra (A)
 Última actualización: [coloca la fecha]
 
-Esta Política de Privacidad describe cómo se recopilan, usan, almacenan y comparten los datos de los usuarios de la aplicación Reavivados por Su Palabra (A) para dispositivos móviles Android, desarrollada por Ing. Edgar Pérez.
+Esta Política de Privacidad describe cómo se recopilan, usan, almacenan y comparten los datos de los usuarios de la aplicación Reavivados por Su Palabra (A) para dispositivos móviles, desarrollada por Ing. Edgar Pérez.
 
 Al usar la aplicación, el usuario acepta las prácticas descritas en esta Política de Privacidad. Si no está de acuerdo con ella, debe abstenerse de usar la aplicación.
 

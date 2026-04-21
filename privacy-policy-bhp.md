@@ -2,7 +2,7 @@ Política de Privacidad
 
 Believe His Prophets
 
-Última actualización: [coloca fecha]
+Última actualización: 20 abril 2026
 
 1. Introducción
 

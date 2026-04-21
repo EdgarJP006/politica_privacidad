@@ -1,39 +1,89 @@
-Política de privacidad - Believe His Prophets
+Política de Privacidad
 
+Believe His Prophets
 
-Esta política de privacidad rige su uso de la aplicación  Believe His Prophets, para dispositivos móviles Android que fue creada por el Ing. Edgar Pérez.
-Este SERVICIO es provisto sin costo y está destinado a ser utilizado tal cual.
-Esta página se utiliza para informar a los visitantes sobre nuestras políticas con la recopilación, el uso y la divulgación de Información personal si alguien decide utilizar nuestro Servicio.
-Si elige usar nuestro Servicio, acepta la recopilación y el uso de la información en relación con esta política. No recopilamos información personal como nombre, apellido, edad, fecha de nacimiento, etc.
+Última actualización: [coloca fecha]
 
-Play Services
-Datos de registro
-Queremos informarle que cada vez que utiliza nuestro Servicio, en caso de error en la aplicación, recopilamos datos e información (a través de productos de terceros) en su teléfono, llamados Datos de registro. Este registro de datos puede incluir información como la dirección del protocolo de Internet ("IP"), el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al utilizar nuestro servicio, la hora y la fecha de uso del servicio y otras estadísticas.
+1. Introducción
 
+Esta Política de Privacidad describe cómo la aplicación Believe His Prophets (en adelante, “la Aplicación”), desarrollada por Ing. Edgar Pérez, recopila, utiliza y protege la información de los usuarios.
 
-Cookies
-Las cookies son archivos con una pequeña cantidad de datos que se utilizan comúnmente como identificadores únicos anónimos. Estos se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo.
-Este Servicio no usa estas "cookies" explícitamente. Sin embargo, la aplicación puede usar código de terceros y bibliotecas que usan "cookies" para recopilar información y mejorar sus servicios. Usted tiene la opción de aceptar o rechazar estas cookies y saber cuándo se está enviando una cookie a su dispositivo. Si elige rechazar nuestras cookies, es posible que no pueda usar algunas partes de este Servicio.
+La Aplicación es gratuita y está destinada a ser utilizada tal como se ofrece. Al utilizarla, usted acepta las prácticas descritas en esta política.
 
-Proveedores de servicio
-Podemos emplear compañías e individuos de terceros debido a las siguientes razones:
+2. Información que recopilamos
+a) Información personal
 
-Para facilitar nuestro servicio;
-Para proporcionar el Servicio en nuestro nombre;
-Para realizar servicios relacionados con el servicio; o
-Para ayudarnos a analizar cómo se utiliza nuestro Servicio.
-Queremos informar a los usuarios de este Servicio que estos terceros tienen acceso a su Información personal. El motivo es realizar las tareas que se les asignaron en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro fin.
+La Aplicación no recopila información personal identificable, como nombre, apellido, dirección, correo electrónico o fecha de nacimiento.
 
-Seguridad
-Valoramos su confianza al proporcionarnos su Información personal, por lo tanto, nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerde que ningún método de transmisión a través de Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.
+b) Datos de uso y diagnóstico
 
-Enlaces a otros sitios
-Este Servicio puede contener enlaces a otros sitios. Si hace clic en un enlace de un tercero, se lo dirigirá a ese sitio. Tenga en cuenta que estos sitios externos no son operados por nosotros. Por lo tanto, le recomendamos encarecidamente que revise la Política de privacidad de estos sitios web. No tenemos control ni asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de sitios o servicios de terceros.
+Podemos recopilar automáticamente información no personal cuando utiliza la Aplicación, incluyendo:
 
-Cambios a esta política de privacidad
-Es posible que actualicemos nuestra Política de privacidad de vez en cuando. Por lo tanto, se recomienda revisar esta página periódicamente para cualquier cambio. Le notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página. Estos cambios entran en vigor inmediatamente después de que se publiquen en esta página.
+Dirección IP
+Tipo de dispositivo
+Sistema operativo y versión
+Configuración de la app
+Fecha y hora de uso
+Estadísticas de uso
 
-Contáctenos
-Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad.
+Estos datos se recopilan con fines de análisis y mejora del servicio.
 
-No dude en contactarnos a edgar.perezr@up.ac.pa. Ing. Edgar Perez
+3. Servicios de terceros
+
+La Aplicación utiliza servicios de terceros que pueden recopilar información para mejorar el rendimiento y la estabilidad:
+
+Google Analytics for Firebase: para analizar el uso de la aplicación.
+Firebase Crashlytics: para detectar y corregir errores.
+
+Estos servicios pueden recopilar información técnica del dispositivo y datos de uso de forma anónima.
+
+Para más información, puede consultar las políticas de privacidad de estos proveedores:
+
+https://firebase.google.com/support/privacy
+4. Uso de la información
+
+La información recopilada se utiliza para:
+
+Operar y mantener la Aplicación
+Mejorar la experiencia del usuario
+Detectar, prevenir y corregir errores
+Analizar el uso de la Aplicación
+5. Cookies y tecnologías similares
+
+La Aplicación no utiliza cookies directamente. Sin embargo, los servicios de terceros pueden usar tecnologías similares para recopilar información con fines analíticos.
+
+6. Compartición de datos
+
+No vendemos ni compartimos información personal con terceros.
+
+Podemos compartir información no personal con proveedores de servicios únicamente para:
+
+Análisis
+Monitoreo de fallos
+Mejora del servicio
+
+Estos proveedores están obligados a proteger la información y usarla únicamente para los fines establecidos.
+
+7. Seguridad
+
+Se implementan medidas razonables para proteger la información. Sin embargo, ningún método de transmisión o almacenamiento es completamente seguro, por lo que no podemos garantizar seguridad absoluta.
+
+8. Enlaces a terceros
+
+La Aplicación puede contener enlaces a sitios externos. No somos responsables por el contenido ni las prácticas de privacidad de dichos sitios.
+
+9. Privacidad de menores
+
+La Aplicación no está dirigida a menores de 13 años y no recopila intencionalmente datos de ellos.
+
+10. Cambios a esta política
+
+Podemos actualizar esta Política de Privacidad ocasionalmente. Los cambios se publicarán en esta página con la fecha de actualización correspondiente.
+
+11. Contacto
+
+Si tiene preguntas o sugerencias sobre esta Política de Privacidad, puede contactarnos en:
+
+📧 edgar.perezr@up.ac.pa
+
+Ing. Edgar Pérez
